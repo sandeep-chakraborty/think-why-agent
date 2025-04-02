@@ -56,7 +56,7 @@ Need a Gemini API key? Go to [Google AI Studio](https://aistudio.google.com/) an
 
 1. Start it up:
    ```
-   streamlit run app.py
+   streamlit run searcher.py
    ```
 
 2. It'll open in your browser. If not, go to the URL in the terminal.
