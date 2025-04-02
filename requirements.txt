@@ -1,0 +1,5 @@
+duckduckgo_search
+streamlit
+datetime
+google-generativeai
+python-dotenv
